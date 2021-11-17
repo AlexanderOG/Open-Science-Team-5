@@ -1,19 +1,13 @@
 # Open-Science-Team-5
-# User-Centered Design of a Peer-Produced Research Platform
-## PhD Project (2020-2023)
-In this repository you'll find outputs of my PhD project. This is a continuous work-in-progress, and my try to practice an open-science approach. 
+# COMPARISONS OF STUDENT ENGAGEMENT IN UNIVERSITY CLUBS THROUGHOUT COVID-19 PANDEMIC PERIOD
+## Open Science course (2021-2022) 
 
-**Title:** "Integrating Peer-Production Principles to Citizen/Community Science Platforms: A User-Centered Approach"   
-**Lab:** [@Peer-Produced Research Lab](https://github.com/PeerProducedResearch), CRI Paris  
+**Title:** "COMPARISONS OF STUDENT ENGAGEMENT IN UNIVERSITY CLUBS THROUGHOUT COVID-19 PANDEMIC PERIOD"
+**Objectif:** "Objective: Measure club-participation numbers at the CRI over the last three years and conduct a time-scale analysis in correlation with the COVID-19 pandemic to see if the student engagement has changed due to the pandemic." 
+**Lab:** Open Science, CRI Paris  
 **Supervisors:** Bastian Greshake Tzovaras and Ariel Lindner  
 
-This work is licensed under a
-[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
 
-[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
-
-[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
-[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
 
 ## High-Level Questions
 Some introductory questions to understand the motivations for my approach  
