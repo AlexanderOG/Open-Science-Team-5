@@ -1,3 +1,4 @@
+<img src="1.png" width="300" />
 # Open-Science-Team-5
 # COMPARISONS OF STUDENT ENGAGEMENT IN UNIVERSITY CLUBS THROUGHOUT COVID-19 PANDEMIC PERIOD
 ## Open Science course (2021-2022) 
